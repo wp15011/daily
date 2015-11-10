@@ -1,5 +1,22 @@
 # 振り返り
 
+## 11/10
+
+### Keep(今後も続けること)
+
+- わからないことはすぐ調べる
+- タイピング練習
+- progate
+- CODEPREP
+
+### Problem(問題なので、やめること)
+
+- タイプミス(記号など)
+
+### Try(今後、試してみたいこと)
+
+- jQueryデザイン入門第3章以降
+
 ## 11/9
 
 ### Keep(今後も続けること)
@@ -8,7 +25,6 @@
 - タイピング練習
 - progate
 - CODEPREP
-- 今日のJavaScript入門の復習
 
 ### Problem(問題なので、やめること)
 
@@ -26,7 +42,6 @@
 - タイピング練習
 - progate
 - CODEPREP
-- 今日のJavaScript入門の復習
 
 ### Problem(問題なので、やめること)
 
@@ -44,7 +59,6 @@
 - タイピング練習
 - progate
 - CODEPREP
-- 今日のJavaScript入門の復習
 
 ### Problem(問題なので、やめること)
 
