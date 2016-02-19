@@ -6,7 +6,7 @@
 
 - わからないことはすぐ調べる
 - タイピング練習
-- Java・php・Javascript
+- Java・PHP・Javascript
 - iOSの知識の強化
 - ネットワークの勉強
 
